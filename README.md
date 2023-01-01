@@ -1,8 +1,8 @@
-# Welcome to Airline Booking Backend Project
-## It's a Micro-Service Architecture Based system
+# Welcome to Airline Booking Backend Project, a Micro-Service based Architecture
 
+- The followig are the different microservices which are inter-communicating through http requests:
 
-- [Auth Service](https://github.com/debjyoti-m28/Auth_Service)
-- [Flight and Search Service](https://github.com/debjyoti-m28/FlightsAndSearchService)
-- [Ticket Booking Service](https://github.com/debjyoti-m28/AirlineTicketBookingService)
+  - [Auth Service](https://github.com/debjyoti-m28/Auth_Service)
+  - [Flight and Search Service](https://github.com/debjyoti-m28/FlightsAndSearchService)
+  - [Ticket Booking Service](https://github.com/debjyoti-m28/AirlineTicketBookingService)
 
