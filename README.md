@@ -9,5 +9,5 @@
   - ### [Ticket Booking Service](https://github.com/debjyoti-m28/AirlineTicketBookingService)
       - Responsible for Booking, Updating and Cancelling flight tickets.
   - ### [Reminder Service]()
-      - Responsible for sending emails for confirmed ticket bookings and sending reminders about booked flight.
+      - Responsible for sending emails for confirmed ticket bookings and sending reminders or updates about booked flight.
 
