@@ -1,4 +1,4 @@
-# Welcome to Airline Booking Backend Project, a Micro-Service based Architecture
+# Welcome to Micro-Service based Airline Booking Backend Project
 
 - The followig are the different microservices which are inter-communicating through http requests:
 
