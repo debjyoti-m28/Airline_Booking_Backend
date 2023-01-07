@@ -1,9 +1,10 @@
 # Welcome to Micro-Service Based Airline Booking Backend Project
 
-- ## [![Architecture Design](https://github.com/debjyoti-m28/Airline_Booking_Backend/files/10366710/Architecture_design.1.pdf)](https://github.com/debjyoti-m28/Airline_Booking_Backend/files/10366710/Architecture_design.1.pdf)
-## 
-
-- #### The followings are the different microservices which are inter-communicating through http requests:
+- ## Architecture Design
+![Architecture Design](https://user-images.githubusercontent.com/91774344/211161135-b4682f74-4ddf-4432-940f-317780a9f760.png)
+ 
+ 
+- ## The followings are the different microservices which are inter-communicating through http requests:
 
   - ### [Auth Service](https://github.com/debjyoti-m28/Auth_Service)
       - Responsible for user authentication and authorisation.
